@@ -4,6 +4,7 @@ ssh into ur server
   1. ssh (username)@(host or ip)
   2. type the password and enter
 
-  sudo nano script.sh (paste the file into it)
-  sudo chmod +x script.sh
-  sudo ./script.sh
+get the script + exec
+  1. sudo nano script.sh (paste the file into it)
+  2. sudo chmod +x script.sh
+  3. sudo ./script.sh
