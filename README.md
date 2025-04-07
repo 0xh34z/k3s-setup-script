@@ -7,7 +7,7 @@ You have two options to obtain the script:
 
 Option 1: Download via cURL
 Use the following command to download the script directly:
-curl -O https://github.com/0xh34z/k3s-setup-script/blob/main/script.sh
+curl -O https://raw.githubusercontent.com/0xh34z/k3s-setup-script/refs/heads/main/script.sh
 Note: The -O flag saves the file with its original name.
 
 Option 2: Copy-Paste & Execute
